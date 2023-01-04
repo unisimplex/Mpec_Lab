@@ -1,3 +1,4 @@
+//WAP in C to calculate the percentage of student marks for five subjects.
 #include<stdio.h>
 
 void main(){
