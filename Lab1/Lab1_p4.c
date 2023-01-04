@@ -1,3 +1,4 @@
+//WAP in C to calculate the area of the triangle.
 #include<stdio.h>
 #include<math.h>
 void main(){
