@@ -1,3 +1,4 @@
+ //WAP in C to calculate Simple interest.
 #include<stdio.h>
 
 void main(){
